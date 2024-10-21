@@ -14,3 +14,6 @@ if you want to join us or ask any question you can add me on discord : natsos
 
 ## About us
 We are cooked
+
+
+![cooked](https://github.com/user-attachments/assets/cb6d9fa0-f9aa-4621-8009-6d08d2699449)
