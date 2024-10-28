@@ -9,7 +9,8 @@ Organization founded by YGNT7777
 | 1 | [YGNT7777](https://github.com/YGNT7777) | **Founder** | ΝΙΚΟΛΑΣ ΝΑΤΣΟΣ |2023144| 
 | 2 | [AkisThUni](https://github.com/AkisThUni) | **Member** | ΘΩΔΗΣ ΠΑΤΑΠΙΟΣ |2023062| 
 | 3 | [GiannisBab](https://github.com/GiannisBab)| **Member** | ΙΩΑΝΝΗΣ ΜΠΑΜΠΛΕΚΗΣ|2021153| 
-| 4 | [Zardas-s](https://github.com/Zardas-s)| **Member** | ΣΠΥΡΙΔΩΝ ΖΑΡΔΑΣ |2023053 | 
+| 4 | [Zardas-s](https://github.com/Zardas-s)| **Member** | ΣΠΥΡΙΔΩΝ ΖΑΡΔΑΣ |2023053 |
+| 5 | [p18tili](https://github.com/p18tili)| **Member** | ΝΙΚΟΛΑΟΣ-ΡΑΦΑΗΛ ΤΗΛΙΓΑΔΗΣ |2018009 | 
 
 if you want to join us or ask any question you can add me on discord : natsos
 
